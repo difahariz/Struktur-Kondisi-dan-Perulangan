@@ -1,5 +1,6 @@
 # Struktur-Kondisi-dan-Perulangan
-## Latihan 1 
+## Struktur Kondisi
+### Latihan 1 
 
 - INPUT
 
@@ -9,7 +10,7 @@
 
 ![Gambar 2](screenshot/2.png)
 
-## Latihan 2
+### Latihan 2
 
 - INPUT
 
@@ -18,3 +19,14 @@
 - OUTPUT
 
 ![Gambar 4](screenshot/4.png)
+
+## Perulangan
+### Latihan 1
+
+- INPUT
+
+![Gambar 5](screenshot/5.png)
+
+- OUTPUT
+
+![Gambar 6](screenshot/6.png)
