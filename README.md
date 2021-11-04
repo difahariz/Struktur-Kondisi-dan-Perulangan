@@ -30,3 +30,13 @@
 - OUTPUT
 
 ![Gambar 6](screenshot/6.png)
+
+### Latihan 2
+
+- INPUT
+
+![Gambar 7](screenshot/7.png)
+
+- OUTPUT
+
+![Gambar 8](screenshot/8.png)
